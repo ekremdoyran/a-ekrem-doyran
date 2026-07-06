@@ -17,23 +17,22 @@ I build systems that bridge software and hardware. From developing full-stack we
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Languages & Frameworks:**
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <!-- Programlama ve Web -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45" style="margin-right: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45" style="margin-right: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="margin-right: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45" style="margin-right: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45" style="margin-right: 15px;" />
 </p>
 
-**Hardware, Tools & Prototyping:**
+<h3 align="left">⚙️ Programs & Hardware:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/3D%20Printing-FF6C37?style=for-the-badge&logo=makerbot&logoColor=white" />
+  <!-- Donanım, Araçlar ve Versiyon Kontrol -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="45" height="45" style="margin-right: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" style="margin-right: 15px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45" style="margin-right: 15px;" />
 </p>
 
 ---
@@ -42,15 +41,6 @@ I build systems that bridge software and hardware. From developing full-stack we
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=a-ekrem-doyran&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-ekrem-doyran&theme=dark&hide_border=true" alt="Profile Details" />
-</p>
-
-### 📊 GitHub İstatistikleri
-
-<p align="left">
-  <a href="https://github.com/a-ekrem-doyran" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=a-ekrem-doyran&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
 </p>
 
 ---
