@@ -1,5 +1,5 @@
-<h1 align="center">⚡ Hi, I'm Ekrem Doyran</h1>
-<h3 align="center">Computer Engineering Student @ Ostim Technical University | Full-Stack Developer | Robotics Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Ekrem</h1>
+<h3 align="center">a computer engineering student.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=a-ekrem-doyran&label=Profile%20views&color=000000&style=flat-square" alt="a-ekrem-doyran" /> 
@@ -40,10 +40,9 @@ I build systems that bridge software and hardware. From developing full-stack we
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-ekrem-doyran&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff" alt="Ekrem's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-ekrem-doyran&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e" alt="Top Languages" />
-</p>
+[![Ekrem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-ekrem-doyran&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff)](https://github.com/a-ekrem-doyran)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=a-ekrem-doyran&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e)](https://github.com/a-ekrem-doyran)
 
 ---
 
