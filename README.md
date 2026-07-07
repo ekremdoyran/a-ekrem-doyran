@@ -54,7 +54,7 @@ I engineer systems at the intersection of software and hardware. My focus is on 
 ### 📊 GitHub İstatistikleri
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=a-ekrem-doyran&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ekremdoyran&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
